@@ -29,11 +29,4 @@ browser, you will be redirected to the login page. Please note, that the data vo
 the connection is not encrypted.
 
 
-### Weather
 
-<div style="width:300px;height:250px;overflow:hidden;">
-    <div style="position:relative;top:0px;left:0px;width:300px;height:221px;">
-        <iframe src="https://kachelmannwetter.com/widget/rectangle/2867543" width="300" height="221" scrolling="no" marginheight="0" frameborder="no"></iframe>
-        <div style="position:absolute;top:221px;left:0px;width:300px;height:29px;"><a style="border:0px;" href="https://kachelmannwetter.com/de/" target="_blank"><img src="https://kachelmannwetter.com/images/widgets/kachelmannwetter-logo.png" alt="kachelmannwetter.com" width="300" height="29" border="0" style="border:0px;" /></a></div>
-    </div>
-</div>
