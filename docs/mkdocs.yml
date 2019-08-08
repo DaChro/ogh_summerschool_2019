@@ -1,0 +1,7 @@
+site_name: ogh_summerschool_2019
+nav:
+    - Home: index.md
+
+theme: bootstrap386
+
+
