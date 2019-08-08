@@ -3,3 +3,5 @@
 
 ### Public Transport
 
+You will receive free bus tickets valid throughout the week of the summer school. You can use these
+tickets in all buses in Muenster. 
