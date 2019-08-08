@@ -1,5 +1,7 @@
-# General information for participants of the OpenGeoHub summer school 2019 in Muenster
+# OpenGeoHub summer school 2019 in Muenster - General Information
 
+Dear participants and lecturers of the OpenGeoHub summer school 2019 in Muenster.
+In this document you will find general information regarding logistics during the summer school. It will be updated continuously.
 
 ### Public Transport
 
