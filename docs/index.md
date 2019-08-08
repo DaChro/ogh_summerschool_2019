@@ -15,6 +15,8 @@ tickets in all buses in Muenster.
 In the map below we have inserted some bus stops you can use for getting from your hotels to GEO1
 and back. For a map with all bus stops and journey planner [click here](https://westfalenfahrplan.de/std3/XSLT_TRIP_REQUEST2?language=en&itdLPxx_contractor=swm&type_origin=any&type_destination=any&custom_suggestMacro=true&std3_commonMacro=trip&std3_customMacro=true).
 
+Some helpful tips about travelling by bus in Muenster can be found in this [flyer](https://www.stadtwerke-muenster.de/fileadmin/stwms/busverkehr/produkte/flyer/SWMS_Infofolder_Busfahren_2016.pdf)
+
 ### Wifi
 
 The Wifi of the University of Muenster is available in most of the University´s buildings, and 
