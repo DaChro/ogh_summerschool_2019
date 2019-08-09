@@ -5,7 +5,21 @@
 
 
 Dear participants and lecturers of the OpenGeoHub summer school 2019 in Muenster.
-In this document you will find general information regarding logistics during the summer school. It will be updated continuously.
+In this document you will find general information regarding logistics during the summer school. It will be updated 
+continuously.
+
+
+### Venue
+
+The Institute for Geoinformatics is located in the GEO 1 building at Heisenbergstraße 2 in the Northwest of Muenster
+where it resides together with the Institutes of Landscape Ecology, Geography and Didactics of Geography.
+GEO 1 will also be the venue of this year's summer school. The plenaries/lectures will be held in the main lecture hall,
+which you will find on the ground floor directly next to the main entrance. The parallel sessions will be held in three 
+seminar rooms located on the second (242), third (323) and fourth floor (401). We will make sure to hang up enough 
+signs so that you can easily find every room. In addition, you can use the GEO 1 information system (located next to the 
+lecture hall) that will give you turn-by-turn directions to any room, person or institute.
+Coffee breaks and lunches will be in the atrium on the ground floor.
+
 
 ### Public Transport
 
@@ -20,7 +34,8 @@ Some helpful tips about travelling by bus in Muenster can be found in this [flye
 ### Wifi
 
 The Wifi of the University of Muenster is available in most of the University´s buildings, and 
-since the University is spread all over the city, it is often worthwhile checking for the University SSIDs wherever you are in Muenster.
+since the University is spread all over the city, it is often worthwhile checking for the University SSIDs wherever you 
+are in Muenster.
 
 eduroam: If you home institution is part of this initiative, use eduroam, just log in with your credentials.
 
