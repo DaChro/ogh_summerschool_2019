@@ -4,7 +4,8 @@
 
 Dear participants and lecturers of the OpenGeoHub summer school 2019 in Muenster.
 In this document you will find general information and tips for your stay in Muenster. It will be updated and 
-extended continuously as the summer school approaches.
+extended continuously as the summer school approaches. Make sure to check this page again shortly before
+your trip.
 
 
 ### Venue
@@ -14,8 +15,12 @@ where it resides together with the Institutes of Landscape Ecology, Geography, a
 GEO 1 will also be the venue of this year's summer school. The plenaries/lectures will be held in the main lecture hall,
 which you will find on the ground floor directly next to the main entrance. 
 
+<div style="text-align:center">
 <img src="Lecture_hall_1.jpg" alt="LectureHall"
-	title="lecture hall" width ="550"/>
+	title="lecture hall" width ="550" class = "center"/>
+</div>
+
+
 	
 The parallel sessions will be held in three seminar rooms located on the second (242), third (323) and 
 fourth floor (401). 
@@ -24,8 +29,14 @@ We will make sure to hang up enough
 signs so that you can easily find every room. In addition, you can use the GEO 1 information system (located next to the 
 lecture hall) that will give you turn-by-turn directions to any room, person or institute.
 Coffee breaks and lunches will be in the atrium on the ground floor.
-![](AtriumB.jpg)
 
+<div style="text-align:center">
+<img src="AtriumB.jpg" alt="Atrium"
+	title="lecture hall" width ="550" class = "center"/>
+</div>
+
+	
+	
 ### Public Transport
 
 You will receive free bus tickets valid throughout the week of the summer school. You can use these
@@ -39,6 +50,53 @@ Some helpful tips about travelling by bus in Muenster can be found in this [flye
 An overview of all routes in Muenster can be found here:
 - [daytime schedule](https://www.netzplan-muenster.de/index.php/de/netzplan)
 - [nighttime schedule](https://www.stadtwerke-muenster.de/fileadmin/stwms/busverkehr/kundencenter/dokumente/netzplaene/MS_NachtNetz_topografisch_2019_04_29.pdf)
+
+
+### Arrival on Sunday: How to get to your Hotel or the venue 
+
+Here are directions for getting to GEO 1 or different hotels when arriving in Muenster at the train station 
+or the airport (here I show directions for most convenient (least walking) lines only, I consider 
+ schedules on Sunday, on other weekdays there are usually more lines available).
+If you would like to know directions to other hotels, please contact me or use the [journey planner](https://westfalenfahrplan.de/std3/XSLT_TRIP_REQUEST2?language=en&itdLPxx_contractor=swm&type_origin=any&type_destination=any&custom_suggestMacro=true&std3_commonMacro=trip&std3_customMacro=true)
+mentioned in "Public Transport"
+
+# Arrival at train station ("Hauptbahnhof"):
+There is a bus hub directly in front of the station that serves most of the bus lines in Muenster.
+- to get to **GEO 1**:
+  - take the bus number 2 from platform C1, direction "Alte Sternwarte", exit at bus stop "Mendelstraße"
+
+- to get to Hotel **"Seezeit"**:
+  - take the bus number 2 from platform C1, direction "Alte Sternwarte", exit at bus stop "Offenbergstraße"
+  **or**
+  - take the bus number 10 from platform C1, direction "Meckmannweg", exit at bus stop "Offenbergstraße"
+
+- to get to Hotel **"Jellentrup"**:
+    - take the bus number 11 from platform C1, direction "Dieckmannstraße", exit at bus stop "Jungeblodtplatz"
+    **or**
+    - take the bus number 14 from platform B1 (direction "Münster Zoo"), exit at bus stop "Jungeblodtplatz"
+
+- to get to Hotel **"Haus Niemann"**:
+  - take the bus number 2 from platform C1 (direction "Alte Sternwarte"), exit at bus stop 
+  "Horstmarer Landweg"
+
+- to get to Hotel **"Haus Hüerländer"**:
+    - take bus number 5 from platform B1 (direction "Nienberge Hannaschweg"), exit at bus stop "Haus
+    Rüschhaus"
+    
+- to get to Hotel **"Überwasserhof"**
+    - take bus number 5 from platform B1 (direction "Nienberge Hannaschweg"), exit at bus stop "Münzstraße"
+    **or**
+    - take bus number 1 from platform B1 (direction "Roxel"), exit at bus stop "Schlossplatz"
+
+# Arrival at airport:
+
+There is a bus connection (two lines) from the airport to the main train station in Muenster. It is probably 
+the easiest way to take this shuttle to get to the train station and then proceed as described above.
+The schedule for the bus lines can be found [here](https://www.fmo.de/fileadmin/fmo/media/content/service/2019-01-30_15_50_55-FMO_SuP_Flyer_Winter_2018_19_DE.pdf.png)
+(check departures for Sunday under "Sonn- u. Feiertag")
+Depending on where you stay, it might be easier to exit/change line at an earlier bus stop. Please use the 
+[journey planner](https://westfalenfahrplan.de/std3/XSLT_TRIP_REQUEST2?language=en&itdLPxx_contractor=swm&type_origin=any&type_destination=any&custom_suggestMacro=true&std3_commonMacro=trip&std3_customMacro=true) 
+to find out. 
 
 
 ### Wifi
@@ -70,8 +128,7 @@ night (starting at around 9 PM and marked with a capital "N", see also [the nigh
 The excursion on Saturday will consist of two parts. First, we will visit the protected area "Rieselfelder", a 
 European bird reserve close to Muenster, where we will have a guided tour. Afterwards there will be a lunch break in a 
 nearby restaurant/café. 
-For the second part we will return to Muenster and you will learn some little-known facts about Muenster on a short guided 
-tour by ...).
+For the second part we will return to Muenster and ....
 - we will meet at 9:00 AM at the GEO 1 building
 - a bus will take us to the "Rieselfelder" where we will have the guided tour
 - after the tour we will walk to the restaurant and have a lunch break
@@ -84,8 +141,8 @@ tour by ...).
 
 ### "Schauraum Münster"
 From Sep 5 to Sep 7 there is a festival of museums and galleries in Muenster ([see here](https://www.stadt-muenster.de/ms/tourismus/presse/html/21-schauraum-EN.html))
-This is the reason why Muenster will be full and why it was so difficult to find available hotels, tours etc. but also a nice add-on to the social program 
-of the summer school.
+This is the reason why Muenster will be full and why it was so difficult to find available hotels, tours etc. but it is
+also a nice option to visit after the summer school.
 On Saturday, museums and galleries throughout Muenster will be open and free of charge until midnight!
 
 
@@ -98,8 +155,8 @@ so far mostly been very warm and sunny) but chances of rain are quite high so yo
 This map contains some hotels and important points of interest to assist you in orientating. Since you are staying in different places,
 we have just added the
 locations of those hotels we had made pre-reservations at, along with the corresponding bus stops and directions to get 
-to GEO 1. Not all of these points are of interest for you so you can deactivate them under "See data layers" If you want
-to know how to get to GEO 1 from a place that is not in the map, please contact me, or use the journey planner mentioned 
+to GEO 1. 
+If you want to know how to get to GEO 1 from a place that is not in the map, please contact me or use the journey planner mentioned 
 in "Public Transport".
 
 
