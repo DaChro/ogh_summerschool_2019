@@ -13,7 +13,10 @@ The Institute for Geoinformatics is located in the GEO 1 building at Heisenbergs
 where it resides together with the Institutes of Landscape Ecology, Geography, and Didactics of Geography.
 GEO 1 will also be the venue of this year's summer school. The plenaries/lectures will be held in the main lecture hall,
 which you will find on the ground floor directly next to the main entrance. 
-![](Lecture_hall_1.jpg)
+
+<img src="Lecture_hall_1.jpg" alt="LectureHall"
+	title="lecture hall" width ="550"/>
+	
 The parallel sessions will be held in three seminar rooms located on the second (242), third (323) and 
 fourth floor (401). 
 ![](Seminar_room.jpg)
