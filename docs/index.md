@@ -60,7 +60,7 @@ or the airport (here I show directions for most convenient (least walking) lines
 If you would like to know directions to other hotels, please contact me or use the [journey planner](https://westfalenfahrplan.de/std3/XSLT_TRIP_REQUEST2?language=en&itdLPxx_contractor=swm&type_origin=any&type_destination=any&custom_suggestMacro=true&std3_commonMacro=trip&std3_customMacro=true)
 mentioned in "Public Transport"
 
-# Arrival at train station ("Hauptbahnhof"):
+#### Arrival at train station ("Hauptbahnhof"):
 There is a bus hub directly in front of the station that serves most of the bus lines in Muenster.
 
 
@@ -68,7 +68,7 @@ To get to **GEO 1**:
 
 - Take the bus number 2 from platform C1, direction "Alte Sternwarte", exit at bus stop "Mendelstraße"
 
-
+<br/>
 
 To get to Hotel **"Seezeit"**:
 
@@ -78,6 +78,7 @@ To get to Hotel **"Seezeit"**:
 
 - take the bus number 10 from platform C1, direction "Meckmannweg", exit at bus stop "Offenbergstraße"
 
+<br/>
 
 To get to Hotel **"Jellentrup"**:
 
@@ -87,18 +88,21 @@ To get to Hotel **"Jellentrup"**:
 
 - take the bus number 14 from platform B1 (direction "Münster Zoo"), exit at bus stop "Jungeblodtplatz"
 
+<br/>
 
 To get to Hotel **"Haus Niemann"**:
 
 - take the bus number 2 from platform C1 (direction "Alte Sternwarte"), exit at bus stop 
   "Horstmarer Landweg"
-  
+
+<br/>  
 
 To get to Hotel **"Haus Hüerländer"**:
 
 - take bus number 5 from platform B1 (direction "Nienberge Hannaschweg"), exit at bus stop "Haus
     Rüschhaus"
    
+<br/>
     
 To get to Hotel **"Überwasserhof"**
 
@@ -108,7 +112,9 @@ To get to Hotel **"Überwasserhof"**
 
 - take bus number 1 from platform B1 (direction "Roxel"), exit at bus stop "Schlossplatz"
 
-# Arrival at airport:
+<br/>
+
+#### Arrival at airport:
 
 There is a bus connection (two lines) from the airport to the main train station in Muenster. It is probably 
 the easiest way to take this shuttle to get to the train station and then proceed as described above.
@@ -184,9 +190,9 @@ in "Public Transport".
 
 ### Important Phone Numbers
 
-   a.  Fire brigade / ambulance: 112
-   b.  Police: 110
-   c.  My number: I have posted the number in mattermost here
+- Fire brigade / ambulance: 112
+- Police: 110
+- My number: I have posted the number in mattermost here
 
 
 
