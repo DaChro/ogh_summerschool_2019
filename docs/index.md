@@ -48,13 +48,14 @@ and back. For a map with all bus stops and a journey planner [click here](https:
 Some helpful tips about travelling by bus in Muenster can be found in this [flyer](https://www.stadtwerke-muenster.de/fileadmin/stwms/busverkehr/produkte/flyer/SWMS_Infofolder_Busfahren_2016.pdf).
 
 An overview of all routes in Muenster can be found here:
+
 - [daytime schedule](https://www.netzplan-muenster.de/index.php/de/netzplan)
 - [nighttime schedule](https://www.stadtwerke-muenster.de/fileadmin/stwms/busverkehr/kundencenter/dokumente/netzplaene/MS_NachtNetz_topografisch_2019_04_29.pdf)
 
 
 ### Arrival on Sunday: How to get to your Hotel or the venue 
 
-Here are directions for getting to GEO 1 or different hotels when arriving in Muenster at the train station 
+Here are the directions for getting to GEO 1 or different hotels when arriving in Muenster at the train station 
 or the airport (here I show directions for most convenient (least walking) lines only, I consider 
  schedules on Sunday, on other weekdays there are usually more lines available).
 If you would like to know directions to other hotels, please contact me or use the [journey planner](https://westfalenfahrplan.de/std3/XSLT_TRIP_REQUEST2?language=en&itdLPxx_contractor=swm&type_origin=any&type_destination=any&custom_suggestMacro=true&std3_commonMacro=trip&std3_customMacro=true)
