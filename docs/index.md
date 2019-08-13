@@ -78,12 +78,21 @@ There is a bus hub directly in front of the station that serves most of the bus 
 #### Arrival at airport:
 
 There is a bus connection (two lines) from the airport to the main train station in Muenster. It is probably 
-the easiest way to take this shuttle to get to the train station and then proceed as described above.
+easiest to take this shuttle to get to the train station and then proceed from there as described above.
 The schedule for the bus lines can be found [here](https://www.fmo.de/fileadmin/fmo/media/content/service/2019-01-30_15_50_55-FMO_SuP_Flyer_Winter_2018_19_DE.pdf.png)
 (check departures for Sunday under "Sonn- u. Feiertag")
 Depending on where you stay, it might be easier to exit/change line at an earlier bus stop. Please use the 
 [journey planner](https://westfalenfahrplan.de/std3/XSLT_TRIP_REQUEST2?language=en&itdLPxx_contractor=swm&type_origin=any&type_destination=any&custom_suggestMacro=true&std3_commonMacro=trip&std3_customMacro=true) 
 to find out. 
+
+### Map
+This map contains some hotels and important points of interest to assist you in orientating. Since you are staying in different places,
+we have just added the locations of those hotels we had made pre-reservations at. 
+We have also added some bus stops for getting from your hotels to GEO 1, along with the reccommended bus connections (click on the bus stops to see them).
+If you want to know how to get to GEO 1 from a place that is not in the map, please contact me or use the journey planner mentioned 
+in "Public Transport".
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/de/map/ogh-muenster-map_308476?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/de/map/ogh-muenster-map_308476">Vollbildanzeige</a></p>
 
 
 ### Wifi
@@ -97,6 +106,9 @@ eduroam: If your home institution is part of this initiative, use eduroam, just 
 GuestOnCampus: Any guest can connect to this Wifi without any credentials. After connecting and opening your
 browser, you will be redirected to the login page. Please note, that the data volume is restricted to 1 GB per day and 
 the connection is not encrypted.
+
+In addition to these two options, we have applied for accounts with unlimited wifi access for the summer school participants.
+We will add information about this soon.
 
 
 ### Dining and Going-Out
@@ -115,21 +127,21 @@ The journey planner that we have put a link to in "Public Transport" accounts fo
 The excursion on Saturday will consist of two parts. First, we will visit the protected area "Rieselfelder", a 
 European bird reserve close to Muenster, where we will have a guided tour. Afterwards there will be a lunch break in a 
 nearby restaurant/café. 
-For the second part we will return to Muenster and visit the harbour (yes, Muenster does have a harbour).
+For the second part we will return to Muenster and visit the harbor (yes, Muenster does have a harbor).
 
 - we will meet at 9:00 AM at the GEO 1 building
-- a bus will take us to the "Rieselfelder" where we will have the guided tour
-- after the tour we will walk to the restaurant and have a lunch break
+- a bus will take us to the "Rieselfelder" 
+- after a guided tour we will walk to the restaurant and have a lunch break
 - after the lunch break the bus will pick us up at the restaurant an take us back to Muenster
 - in Muenster there will be a brief guided tour in the harbour
 - we expect finish at around 4:00 PM
 - afterwards you are free to join us to explore some of the many events during the cultural festival 
-"Schauraum" (see below) and have a drink or two if you still have time
+"Schauraum" (see below) and have a drink or two 
 
 
 ### "Schauraum Münster"
-From Sep 5 to Sep 7 there is a festival of museums and galleries in Muenster ([see here](https://www.stadt-muenster.de/ms/tourismus/presse/html/21-schauraum-EN.html))
-This is the reason why Muenster will be full and why it was so difficult to find available hotels, tours etc. but it is
+From Sep 5 to Sep 7, there is a festival of museums and galleries in Muenster, called "Schauraum" (show room) ([see here](https://www.stadt-muenster.de/ms/tourismus/presse/html/21-schauraum-EN.html))
+This is one reason why Muenster will be even more crowded than usual and why it was so difficult to find available hotels, etc. but it is
 also a nice option to visit after the summer school.
 On Saturday, museums and galleries throughout Muenster will be open and free of charge until midnight!
 
@@ -143,12 +155,7 @@ so far mostly been very warm and sunny) but chances of rain are quite high so yo
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
 
-### Map
-This map contains some hotels and important points of interest to assist you in orientating. Since you are staying in different places,
-we have just added the locations of those hotels we had made pre-reservations at. 
-We have also added some bus stops for getting from your hotels to GEO 1, along with the reccommended bus connections (click on the bus stops to see them).
-If you want to know how to get to GEO 1 from a place that is not in the map, please contact me or use the journey planner mentioned 
-in "Public Transport".
+
 
 
 
