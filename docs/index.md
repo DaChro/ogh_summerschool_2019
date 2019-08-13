@@ -65,6 +65,16 @@ mentioned in "Public Transport"
 There is a bus hub directly in front of the station that serves most of the bus lines in Muenster.
 
 
+| Destination   | Directions    |
+| ------------- |:--------------| 
+| GEO 1         | take the bus number 2 from platform C1, direction "Alte Sternwarte", exit at bus stop "Mendelstraße" | 
+| Hotel "Seezeit" | take the bus number 2 from platform C1, direction "Alte Sternwarte", exit at bus stop "Offenbergstraße" <br/> **or** <br/> take the bus number 10 from platform C1, direction "Meckmannweg", exit at bus stop "Offenbergstraße"|   
+| Hotel "Jellentrup" | take the bus number 11 from platform C1, direction "Dieckmannstraße", exit at bus stop "Jungeblodtplatz" <br/> **or** <br/> take the bus number 14 from platform B1 (direction "Münster Zoo"), exit at bus stop "Jungeblodtplatz"     |    
+| Hotel "Haus Niemann"|take the bus number 2 from platform C1 (direction "Alte Sternwarte"), exit at bus stop "Horstmarer Landweg"|
+| Hotel "Haus Hüerländer"|take bus number 5 from platform B1 (direction "Nienberge Hannaschweg"), exit at bus stop "Haus Rüschhaus"|
+| Hotel "Überwasserhof"|take bus number 5 from platform B1 (direction "Nienberge Hannaschweg"), exit at bus stop "Münzstraße" <br/> **or** <br/> take bus number 1 from platform B1 (direction "Roxel"), exit at bus stop "Schlossplatz"|
+
+
 To get to **GEO 1**:
 
 - Take the bus number 2 from platform C1, direction "Alte Sternwarte", exit at bus stop "Mendelstraße"
