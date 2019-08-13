@@ -89,10 +89,11 @@ to find out.
 This map contains some hotels and important points of interest to assist you in orientating. Since you are staying in different places,
 we have just added the locations of those hotels we had made pre-reservations at. 
 We have also added some bus stops for getting from your hotels to GEO 1, along with the reccommended bus connections (click on the bus stops to see them).
-If you want to know how to get to GEO 1 from a place that is not in the map, please contact me or use the journey planner mentioned 
+If you would like to know how to get to GEO 1 from a place that is not in the map, please contact me or use the journey planner mentioned 
 in "Public Transport".
+For clarity, not all layers are active by default. Activate/deactivate them under "data layers".
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/de/map/ogh-muenster-map_308476?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/de/map/ogh-muenster-map_308476">Vollbildanzeige</a></p>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/ogh-muenster-map_308476?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/de/map/ogh-muenster-map_308476">Vollbildanzeige</a></p>
 
 
 ### Wifi
