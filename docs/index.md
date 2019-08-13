@@ -53,7 +53,7 @@ An overview of all routes in Muenster can be found here:
 - [nighttime schedule](https://www.stadtwerke-muenster.de/fileadmin/stwms/busverkehr/kundencenter/dokumente/netzplaene/MS_NachtNetz_topografisch_2019_04_29.pdf)
 
 
-### Arrival on Sunday: How to get to your Hotel or the venue 
+### Arrival: How to get to your Hotel or the venue 
 
 Here are the directions for getting to GEO 1 or different hotels when arriving in Muenster at the train station 
 or the airport (here I show directions for most convenient (least walking) lines only, I consider 
@@ -65,65 +65,15 @@ mentioned in "Public Transport"
 There is a bus hub directly in front of the station that serves most of the bus lines in Muenster.
 
 
-| Destination   | Directions    |
-| ------------- |:--------------| 
-| GEO 1         | take the bus number 2 from platform C1, direction "Alte Sternwarte", exit at bus stop "Mendelstraße" | 
-| Hotel "Seezeit" | take the bus number 2 from platform C1, direction "Alte Sternwarte", exit at bus stop "Offenbergstraße" <br/> **or** <br/> take the bus number 10 from platform C1, direction "Meckmannweg", exit at bus stop "Offenbergstraße"|   
-| Hotel "Jellentrup" | take the bus number 11 from platform C1, direction "Dieckmannstraße", exit at bus stop "Jungeblodtplatz" <br/> **or** <br/> take the bus number 14 from platform B1 (direction "Münster Zoo"), exit at bus stop "Jungeblodtplatz"     |    
-| Hotel "Haus Niemann"|take the bus number 2 from platform C1 (direction "Alte Sternwarte"), exit at bus stop "Horstmarer Landweg"|
-| Hotel "Haus Hüerländer"|take bus number 5 from platform B1 (direction "Nienberge Hannaschweg"), exit at bus stop "Haus Rüschhaus"|
-| Hotel "Überwasserhof"|take bus number 5 from platform B1 (direction "Nienberge Hannaschweg"), exit at bus stop "Münzstraße" <br/> **or** <br/> take bus number 1 from platform B1 (direction "Roxel"), exit at bus stop "Schlossplatz"|
+| Destination       | Bus Connection    |
+| ----------------- |:--------------| 
+| GEO 1         | Take the bus number 2 from platform C1, direction "Alte Sternwarte", exit at bus stop "Mendelstraße" | 
+| Hotel "Seezeit" | Take the bus number 2 from platform C1, direction "Alte Sternwarte", exit at bus stop "Offenbergstraße" <br/> **or** <br/> Take the bus number 10 from platform C1, direction "Meckmannweg", exit at bus stop "Offenbergstraße"|   
+| Hotel "Jellentrup" | Take the bus number 11 from platform C1, direction "Dieckmannstraße", exit at bus stop "Jungeblodtplatz" <br/> **or** <br/> Take the bus number 14 from platform B1 (direction "Münster Zoo"), exit at bus stop "Jungeblodtplatz"     |    
+| Hotel "Haus Niemann"|Take the bus number 2 from platform C1 (direction "Alte Sternwarte"), exit at bus stop "Horstmarer Landweg"|
+| Hotel "Haus Hüerländer"|Take bus number 5 from platform B1 (direction "Nienberge Hannaschweg"), exit at bus stop "Haus Rüschhaus"|
+| Hotel "Überwasserhof"|Take bus number 5 from platform B1 (direction "Nienberge Hannaschweg"), exit at bus stop "Münzstraße" <br/> **or** <br/> Take bus number 1 from platform B1 (direction "Roxel"), exit at bus stop "Schlossplatz"|
 
-
-To get to **GEO 1**:
-
-- Take the bus number 2 from platform C1, direction "Alte Sternwarte", exit at bus stop "Mendelstraße"
-
-<br/>
-
-To get to Hotel **"Seezeit"**:
-
-- take the bus number 2 from platform C1, direction "Alte Sternwarte", exit at bus stop "Offenbergstraße"
-
-**or**
-
-- take the bus number 10 from platform C1, direction "Meckmannweg", exit at bus stop "Offenbergstraße"
-
-<br/>
-
-To get to Hotel **"Jellentrup"**:
-
-- take the bus number 11 from platform C1, direction "Dieckmannstraße", exit at bus stop "Jungeblodtplatz"
-
-**or**
-
-- take the bus number 14 from platform B1 (direction "Münster Zoo"), exit at bus stop "Jungeblodtplatz"
-
-<br/>
-
-To get to Hotel **"Haus Niemann"**:
-
-- take the bus number 2 from platform C1 (direction "Alte Sternwarte"), exit at bus stop 
-  "Horstmarer Landweg"
-
-<br/>  
-
-To get to Hotel **"Haus Hüerländer"**:
-
-- take bus number 5 from platform B1 (direction "Nienberge Hannaschweg"), exit at bus stop "Haus
-    Rüschhaus"
-   
-<br/>
-    
-To get to Hotel **"Überwasserhof"**
-
-- take bus number 5 from platform B1 (direction "Nienberge Hannaschweg"), exit at bus stop "Münzstraße"
-
-**or**
-
-- take bus number 1 from platform B1 (direction "Roxel"), exit at bus stop "Schlossplatz"
-
-<br/>
 
 #### Arrival at airport:
 
@@ -142,7 +92,7 @@ The Wifi of the University of Muenster is available in most of the University´s
 since the University is spread all over the city, it is often worthwhile checking for the University SSIDs wherever you 
 are in Muenster.
 
-eduroam: If your home institution is part of this initiative, use eduroam, just log in with your usual credentials.
+eduroam: If your home institution is part of this initiative, use eduroam, just log in with your usual credentials from home.
 
 GuestOnCampus: Any guest can connect to this Wifi without any credentials. After connecting and opening your
 browser, you will be redirected to the login page. Please note, that the data volume is restricted to 1 GB per day and 
@@ -151,13 +101,13 @@ the connection is not encrypted.
 
 ### Dining and Going-Out
 
-If in one evening you find yourselves not sated by R and drunk with Python there are quite a few places 
+If in one evening you find yourselves not sated by R and drunk with Python, there are quite a few places 
 to go for a drink or for dinner in Muenster. We do not feel qualified to give recommendations about specific restaurants 
 or bars that fit any given taste, so we have instead marked several streets/quarters on the map below that are great 
 spots to go out at night.
 Please note that if you stay late and want to ride the bus, there are different schedules and different routes active at
-night (starting at around 9 PM and marked with a capital "N", see also [the nighttime route overview](https://www.stadtwerke-muenster.de/fileadmin/stwms/busverkehr/kundencenter/dokumente/netzplaene/MS_NachtNetz_topografisch_2019_04_29.pdf)). The journey planner that we have put a link to in
-"Public Transport" accounts for that.
+night (starting at around 9 PM and marked with a capital "N", see also [the nighttime route overview](https://www.stadtwerke-muenster.de/fileadmin/stwms/busverkehr/kundencenter/dokumente/netzplaene/MS_NachtNetz_topografisch_2019_04_29.pdf)). 
+The journey planner that we have put a link to in "Public Transport" accounts for that.
 
 
 ### Excursion
@@ -165,15 +115,16 @@ night (starting at around 9 PM and marked with a capital "N", see also [the nigh
 The excursion on Saturday will consist of two parts. First, we will visit the protected area "Rieselfelder", a 
 European bird reserve close to Muenster, where we will have a guided tour. Afterwards there will be a lunch break in a 
 nearby restaurant/café. 
-For the second part we will return to Muenster and ....
+For the second part we will return to Muenster and visit the harbour (yes, Muenster does have a harbour).
+
 - we will meet at 9:00 AM at the GEO 1 building
 - a bus will take us to the "Rieselfelder" where we will have the guided tour
 - after the tour we will walk to the restaurant and have a lunch break
 - after the lunch break the bus will pick us up at the restaurant an take us back to Muenster
-- in Muenster there will be the ... tour
-- we expect finish at around ...
+- in Muenster there will be a brief guided tour in the harbour
+- we expect finish at around 4:00 PM
 - afterwards you are free to join us to explore some of the many events during the cultural festival 
-"Schauraum" and have a drink or two if you still have time
+"Schauraum" (see below) and have a drink or two if you still have time
 
 
 ### "Schauraum Münster"
@@ -184,15 +135,18 @@ On Saturday, museums and galleries throughout Muenster will be open and free of 
 
 
 ### Weather
-
 Muenster is somewhat famous for its bad weather. This does not mean that it is always raining (in fact this summer has 
 so far mostly been very warm and sunny) but chances of rain are quite high so you should be prepared for that. 
 
+<a class="weatherwidget-io" href="https://forecast7.com/en/51d967d63/munster/" data-label_1="MÜNSTER" data-label_2="WEATHER" data-theme="weather_one" >MÜNSTER WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+
 ### Map
 This map contains some hotels and important points of interest to assist you in orientating. Since you are staying in different places,
-we have just added the
-locations of those hotels we had made pre-reservations at, along with the corresponding bus stops and directions to get 
-to GEO 1. 
+we have just added the locations of those hotels we had made pre-reservations at. 
+We have also added some bus stops for getting from your hotels to GEO 1, along with the reccommended bus connections (click on the bus stops to see them).
 If you want to know how to get to GEO 1 from a place that is not in the map, please contact me or use the journey planner mentioned 
 in "Public Transport".
 
